@@ -1,1 +1,1 @@
-# Sample-Portfolio-Rreact
+# Simple-Portfolio-React
